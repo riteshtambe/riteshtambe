@@ -4,10 +4,10 @@
 
 
 <div id="badges" align="center">
-  <a href="linkedin.com/in/ritesh-tambe-aa1a70205">
+  <a href="https://www.linkedin.com/in/ritesh-tambe-aa1a70205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="UCey_T8t7zsKIw_qhoyf3bTQ">
+  <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
