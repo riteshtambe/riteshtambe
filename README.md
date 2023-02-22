@@ -50,4 +50,8 @@
 
 - <img src="https://media.giphy.com/media/VZV471U1wUShjcsMlE/giphy.gif" width="30"> Wanted to go further in this AI field by learning advance Machine Learning concepts and Deep Learning <img src="https://media.giphy.com/media/VZV471U1wUShjcsMlE/giphy.gif" width="30">
 
+- 📓 I am also going through Data Structures and Algorithm for problem solving and logical reasoning.
+
+- 🗒️ Mathematics for Machine learning is my favorite comfortzone like Statistics and Probablity and ML algorithms Mathematical Intuitions
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/ritesh-tambe-aa1a70205)
