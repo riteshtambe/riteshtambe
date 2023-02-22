@@ -48,6 +48,6 @@
  
 - 🕵️‍♂️: In my free time I Used To learn Other technologies such as FASTAPI <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" width="20">
 
-- <img src="https://media.giphy.com/media/VZV471U1wUShjcsMlE/giphy.gif" width="20">
+- <img src="https://media.giphy.com/media/VZV471U1wUShjcsMlE/giphy.gif" width="30"> Wanted to go further in this AI field by learning advance Machine Learning concepts and Deep Learning <img src="https://media.giphy.com/media/VZV471U1wUShjcsMlE/giphy.gif" width="30">
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/ritesh-tambe-aa1a70205)
