@@ -13,7 +13,7 @@
   <a href="[your-twitter-URL](https://twitter.com/ritz_0015)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="">
+  <a href="https://huggingface.co/Ritesh015">
     <img src="https://img.shields.io/badge/Hugging Face-gold?style=for-the-badge&logo=twitter&logoColor=white" alt="HuggingFace Badge"/>
   </a>
 </div>
