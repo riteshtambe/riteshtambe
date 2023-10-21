@@ -13,9 +13,6 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://github.com/riteshtambe">
-     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </div>
 
 <div id="header" align="center">
