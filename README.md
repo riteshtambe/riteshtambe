@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/ritesh0015">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3628869-3030009.png?f=webp&w=256&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=KAGGLE&logoColor=black" alt="Kaggle Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
