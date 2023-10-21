@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Hugging Face-gold?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Hugging Face-gold?style=for-the-badge&logo=twitter&logoColor=white" alt="HuggingFace Badge"/>
   </a>
 </div>
 
