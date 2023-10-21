@@ -8,13 +8,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/ritesh0015">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=KAGGLE&logoColor=blue" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-pineapple?style=for-the-badge&logo=KAGGLE&logoColor=blue" alt="Kaggle Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="[your-twitter-URL](https://twitter.com/ritz_0015)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/Hugging Face-gold?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
