@@ -4,7 +4,7 @@
 
 
 <div id="badges" align="center">
-  <a href="linkedin.com/in/ritesh-t-aa1a70205">
+  <a href="https://www.linkedin.com/in/ritesh-t-aa1a70205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/ritesh0015">
