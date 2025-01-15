@@ -2,6 +2,8 @@
   <img src="https://github.com/riteshtambe/riteshtambe/blob/main/video_2025-01-15_23-53-30.gif" alt="MasterHead">
 </p>
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
 <h1 align="center">Hi 👋, I'm RITESH TAMBE</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
