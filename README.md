@@ -50,5 +50,5 @@
 </div>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshtambe&show_icons=true&locale=en" alt="riteshtambe" /></p> -->
-
+### 📊 GitHub SCORE 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riteshtambe&theme=monokai&short_numbers=true&border=EB5454" alt="GitHub Streak" /></a>
