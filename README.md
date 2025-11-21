@@ -49,6 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shyboy1044&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshtambe&show_icons=true&locale=en" alt="riteshtambe" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshtambe&show_icons=true&locale=en" alt="riteshtambe" /></p> -->
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riteshtambe&theme=monokai&short_numbers=true&border=EB5454" alt="GitHub Streak" /></a>
