@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/ritz_0015" target="blank"><img src="https://img.shields.io/twitter/follow/ritz_0015?logo=twitter&style=for-the-badge" alt="ritz_0015" /></a> </p>
 
-- 🔭 I am working on building AI Techs in Computer Visions Models **Detecting Pests using YOLO Algorithm**
+- 🔭 I am working on building AI Techs in Computer Visions Models **Using VLLM To Automate the regular tasks using OS Automation**
 
-- 🌱 I’m currently learning **Reinforcement Learning and Computer Vision**
+- 🌱 I’m currently learning **GPU kernal Development & KV Cache Management**
 
 - 👯 I’m looking to collaborate on **Data Engineering Projects and Machine Learning Operations**
 
-- 🤝 I’m looking for help with **Ground Control Station**
+- 🤝 I’m looking for help with **Developing LLM From Scratch To Understand the Architecture to Increase the Productivity and Token Management**
 
 - 💬 Ask me about **AI Frameworks , Python Frameworks(Django,FastAPI),Vision Models, NLP, Data Engineering,Reinforcement Learning**
 
